@@ -1,6 +1,6 @@
 # Images
 Images of all projects
-![14 Powerful Visuals About Life-01](https://github.com/HackUniv/Images/assets/119047006/9941ccf1-157c-4a67-ae6a-d75e84c70a85)
+![14 Powerful Visuals About Life-01](https://github.com/HackUniv/Images/assets/119047006/a9cb9174-f0c4-4cee-a0fc-30e124810e6f)
 ![14 Powerful Visuals About Life-03](https://github.com/HackUniv/Images/assets/119047006/91567f4d-9c57-46d4-a527-eea24f21976b)
 ![14 Powerful Visuals About Life-02](https://github.com/HackUniv/Images/assets/119047006/b256e3dd-2c25-4292-a9c5-4e5d610877dc)
 ![14 Powerful Visuals About Life-04](https://github.com/HackUniv/Images/assets/119047006/94f6216c-e565-4740-88ce-df2c7531a003)
