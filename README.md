@@ -1,5 +1,8 @@
 Images of all projects
 
+
+![Tailored IT Solutions for Diverse Industries 2](https://github.com/user-attachments/assets/a8b29603-c30f-46c9-b29f-e99b96db618a)
+
 ![nightfall-elven-city-enchanted-peninsula-forest](https://github.com/HackUniv/Images/assets/119047006/1c249690-c86e-42e3-8963-61dbaf0e4c0d)
 
 ![Mehrab 2-01](https://github.com/HackUniv/Images/assets/119047006/8457d67e-e21a-48dc-9667-5df031415ae8)
