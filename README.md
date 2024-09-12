@@ -1,6 +1,7 @@
 Images of all projects
 
-![A Guide to Choosing the Right Technology Stack for Your Project](https://github.com/user-attachments/assets/75277f4e-005b-4e8a-aae9-adffe76abd88)
+![A Guide to Choosing the Right Technology Stack for Your Project](https://github.com/user-attachments/assets/75c70596-f271-440e-b7f8-cb1fb05f3d9b)
+
 
 ![Tailored IT Solutions for Diverse Industries 2](https://github.com/user-attachments/assets/a8b29603-c30f-46c9-b29f-e99b96db618a)
 
