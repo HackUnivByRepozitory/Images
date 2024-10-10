@@ -1,5 +1,8 @@
 Images of all projects
 
+![Understanding the Role of DevOps_For web](https://github.com/user-attachments/assets/61247b4c-70e3-46ba-884a-2c380a618c45)
+
+
 ![The Importance of User Experience](https://github.com/user-attachments/assets/3debd489-5edc-46cb-8258-146ef725d416)
 
 
