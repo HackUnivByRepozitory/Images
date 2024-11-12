@@ -1,5 +1,8 @@
 Images of all projects
 
+![The Power of AI in Automating Business Processes](https://github.com/user-attachments/assets/24c95a1b-458d-43db-9773-b0f44b70b4a7)
+
+
 ![Understanding the Role of DevOps_For web](https://github.com/user-attachments/assets/61247b4c-70e3-46ba-884a-2c380a618c45)
 
 
