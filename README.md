@@ -1,5 +1,8 @@
 Images of all projects
 
+![Guide to Engaging Offshore Development Partners Models and Best Practices](https://github.com/user-attachments/assets/ff81bcca-808e-4d5d-9e69-ff506d3a4554)
+
+
 ![The Power of AI in Automating Business Processes](https://github.com/user-attachments/assets/24c95a1b-458d-43db-9773-b0f44b70b4a7)
 
 
