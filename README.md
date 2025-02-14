@@ -1,5 +1,8 @@
 Images of all projects
 
+![Software Outsourcing in Scaling Startups_For web](https://github.com/user-attachments/assets/0c306b47-649a-4365-b0c9-54031381d509)
+
+
 ![Guide to Engaging Offshore Development Partners Models and Best Practices](https://github.com/user-attachments/assets/ff81bcca-808e-4d5d-9e69-ff506d3a4554)
 
 
